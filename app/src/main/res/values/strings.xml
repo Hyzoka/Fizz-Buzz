@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Fizz-Buzz</string>
+    <string name="confirm">Confirm</string>
+    <string name="welcome">Welcome to the Fizz-Buzz</string>
+    <string name="choise_entier">Choose tow entries :</string>
+    <string name="next_step">Next step</string>
+    <string name="choise_strings">Choose tow strings :</string>
+    <string name="final_step">Final step</string>
+    <string name="choise_limit">Choose limit :</string>
+    <string name="empty_data">please fill in all text fields</string>
+    <string name="reset">reset</string>
+</resources>
